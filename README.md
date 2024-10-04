@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keepush , 유지민
+- 👋 Hi, I’m  Jimin(@keepush)
 - 👀 I’m interested in ... Back/FrontEnd
 - 🌱 I’m currently learning ... JavaScript, Node.js
 - 💞️ I’m looking to collaborate on ... anything I can enter
